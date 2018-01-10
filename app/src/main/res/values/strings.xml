@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyView</string>
+    <string name="Name">Name: Michael Azogu</string>
+    <string name="favorite_food">Favorite Food: Pizza</string>
+    <string name="education">Education: Georgia Institute of Technology</string>
+    <string name="hobby">Hobby: Video Games</string>
+    <string name="favorite_color">Favorite Color: Red</string>
+    <string name="spirit_animal">Spirit Animal: Shark</string>
+    <string name="favorite_song">Favorite Song: Shounen Heart</string>
+</resources>
